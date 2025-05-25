@@ -1,0 +1,5 @@
+sa,as,2
+sadsdasd,,0
+sadasdsa,,0
+asda,asd,1
+emir,emir,3
